@@ -1,4 +1,4 @@
-*Phishing Email Investigation Lab*
+**#Phishing Email Investigation Lab**
 
 Author: Anirudh (lord-juki)
 Date: 2026-08-18
